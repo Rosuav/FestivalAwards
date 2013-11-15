@@ -1,0 +1,286 @@
+Data for the years 1994 through 2011 has been cribbed from http://www.s234171324.websitehome.co.uk/festival_results.htm - accuracy and completeness depend entirely on that site and its creator, David Sandham. Thanks David! Data for 2011 and 2013 came from my own notes, having been there at the ceremony. For 2012, a post by S-J Hall is my sole source. In all cases, manual transcription has occurred, so errors are a definite possibility - not to mention inconsistencies.
+
+The G&Ses are not performed equally frequently, but I'm hoping that this won't make material impact on the stats. Also, the appointed adjudicator changes from year to year, which quite possibly WILL have impact on the stats, but as I don't have data on who adjudicated which years, I've omitted that. (It would be useful, though, to be able to (say) restrict the display to David Turner years, for instance.)
+
+Not all awards have nominations listed. This may be because none were named, but it may also be because I just don't have the information. Submissions welcome.
+
+fourteennecklacehostagerunway
+cylinder=> create table awards (id serial primary key,year smallint not null,award varchar not null,winner boolean not null default false,company varchar not null default '',opera varchar not null default '',performer varchar not null default '');
+
+1994
+*Champions*
+	Utopia	Hancock County G&S Society
+	Gond	St Mary's High School
+	Pirates	South Anglia Savoy Players
+
+Best Supporting Actor
+	Gond	St Mary's	Don Alhambra	Simon Rigby
+
+Best Supporting Actress
+	Mikado	Festival Production	Katisha	Kathleen Wilkinson
+
+Best Male Voice
+	Mikado	Festival Production	Nanki-Poo	David Lace
+
+Best Female Voice
+	Pirates	???	Mabel	Stella Whitehouse
+
+Best Character Performance
+	Pirates	Festival Production (??)	Maj Gen Stanley	Ross Bryant (WA)
+
+Best Male Performer
+	Pirates	South Anglia Savoy Players	Pirate King	Paul Lazell
+
+Best Female Performer
+	Grand Duke	Savoy Company Philadelphia	Baroness	Betsy Walker
+
+Best Chorale Performance
+	Pirates	South Anglia Savoy Players	Hail Poetry
+
+Best Concerted Item
+	Princess Ida	Preston G&S Society	Gently, gently
+
+Best Musical Director
+	???	Preston G&S Society	MD	Phil Gibbons
+
+Best Director
+	Gondoliers	St Mary's High School	Dir	Andrea Atherton
+
+Best Overseas Society
+	Utopia	Hancock County G&S Society
+
+1995
+Award
+	Show	Company		Role	Performer
+*Champions*
+	Princess Ida	Lamplighters
+	Pinafore	Houston G&S Society
+	Pirates		Essex Group
+
+Best Chorus
+	Pirates	Essex Group	Hail Poetry
+	Yeomen	Rose Hill Musical Society	Finale Act II
+	Pinafore	Houston G&S Society	Finale Act II
+	Ruddigore	South Anglia	Finale Act I
+
+Best Supporting Actor
+	Ruddigore	South Anglia	Richard Dauntless	Mick Wilson
+	Patience	Wakefield G&S	Major Murgatroyd	Graham Weston
+	Pinafore	Houston G&S	Corcoran		Harrison Moore
+	Princess Ida	Lamplighters	Florian			Jonathan S Spencer
+
+Best Supporting Actress
+	Pinafore	Houston G&S Society	Buttercup	Lisa Young
+	Yeomen		Rose Hill Musical Society	Phoebe		Ellen Godfrey
+	Gondoliers	Festival Production	Casilda		Stella Whitehouse
+	Princess Ida	Lamplighters		Melissa		Stacey L Helley
+
+Best Concerted Item
+	Mikado	Savoy Company, Philadelphia	Act II Madrigal
+	Pirates	Essex Group	Trio - Ruth/Fred/PK
+	Princess Ida	Lamplighters	Trio - Cyril/Hilarion/Florian
+	Gondoliers	Festival Production	Contemplative Fashion
+
+Best Male Voice
+	Princess Ida	Lamplighters	Hilarion	Baker Peeples
+	Pinafore	Houston G&S	Ralph	Nathan Wight
+	Pirates		Essex Group	Fred	Simon Curtis
+	Ruddigore	South Anglia	Sir Roderic	Paul Lazell
+
+Best Female Voice
+	Pinafore	???		Josephine	Kimberley Lane
+	Mikado	Savoy, Philadelphia	Yum-Yum		Kathleen Thren
+	Gondoliers	Festival Production	Casilda	Stella Whitehouse
+	Gondoliers	Festival Production	Gianetta	Joan Rawstron
+
+Best Character Actor
+	Pirates		Manx G&S Society	Maj Gen Stanley	John Craige
+	Pinafore	Houston G&S		Dick Deadeye	Ralph Katz
+	Ruddigore	South Anglia		Sir Roderic	Paul Lazell
+	Princess Ida	Lamplighters		Hildebrand	William Neely
+
+Best Character Actress
+	Mikado		Savoy, Philadelphia	Katisha		Betsy Walker
+	Pinafore	Houston G&S		Buttercup	Lisa Young
+	Ruddigore	South Anglia		Dame Hannah	Eileen Barks-Marner
+	Pirates		Essex Group		Ruth		Gladys May Mosley
+
+Best Musical Director
+	Pinafore	Houston G&S		MD	Dr Robert Linder
+	Ruddigore	South Anglia		MD	Brian Brown
+	Pirates		Essex Group		MD	Alison McFadyen
+	Princess Ida	Lamplighters		MD	Monroe Kanouse
+
+Best Male Performer
+	Ruddigore	South Anglia			Sir Roderic	Paul Lazell
+	Yeomen		Rose Hill Musical Society	Jack Point	Patrick Dawson
+	Yeomen		Rose Hill Musical Society	Shadbolt	Jonathan Godfrey
+	Mikado		Savoy, Philadelphia		Ko-Ko		Sam Griffin
+
+Best Female Performer
+	Ruddigore	South Anglia			Rose Maybud	Sally Brown
+	Pinafore	Houston G&S			Josephine	Kimberley Lane
+	Iolanthe	Hancock County G&S		Phyllis		Sarah Schneider
+	Gondoliers	Festival Production		Duchess		Lisa Young
+
+Best Director
+	Princess Ida	Lamplighters			Director	Barbara Fileroux
+	Pinafore	Houston G&S			Director	Alistair Donkin
+	Ruddigore	South Anglia			Director	Derek Collins
+	Pirates		Essex Group			Director	Gary Sullivan
+
+Adjudicator's Special Award
+	Princess Ida	Lamplighters			Costumes	Melissa Wortman
+
+Best Overseas Society
+	Princess Ida	Lamplighters
+	Pinafore	Houston G&S
+	Mikado		Savoy, Philadelphia
+	Iolanthe	Hancock County G&S
+
+1996
+Award
+	Show	Company		Role	Performer
+*Champions*
+	Yeomen	South Anglia
+	Pirates	Forum Theatre Billingham
+	Patience	Sale G&S Society
+
+Best Chorus
+	Pinafore	Seattle G&S Society	Finale Act I
+
+Best Supporting Actor
+	Patience	Sale G&S Society	Duke	Lee Woods
+
+Best Supporting Actress
+	Pirates	Forum Theatre Billingham	Ruth	Sally Emerson
+
+Best Concerted Item
+	Yeomen	South Anglia	Strange Adventure
+
+Best Male Voice
+	Pinafore	Seattle G&S Society	Corcoran	Tom Derbyshire
+
+Best Female Voice
+	Pinafore	Seattle G&S Society	Josephine	Carol Sue Hunting
+
+Best Character Actor
+	Yeomen	South Anglia	Shadbolt	Paul Lazell
+
+Best Character Actress
+	Iolanthe	Philadelphia Festival Production	Fairy Queen	Betsy Walker
+
+Best Musical Director
+	Pinafore	Chester County G&S Society	MD	Florrie Marks
+
+Best Male Performer
+	Iolanthe	Philadelphia Festival Production	Strephon	Stephen Arvanites
+
+Best Female Performer
+	Patience	Sale G&S Society	Patience	Eileen Jackson
+
+Best Director
+	Pirates	Forum Theatre Billingham	Director	Peter Mulloy
+
+Best Professional Director
+	Patience	Sale G&S Society	Director	Alistair Donkin
+
+Adjudicator's Special Award
+	Mikado		Derby G&S Company
+
+Best Chorus
+	Gondoliers	Hancock County G&S Society
+
+2012
+Award
+	Show	Company		Role	Performer
+*Champions*
+	Ruddigore	South Anglia
+	Yeomen		Cape Town G&S Society
+	Ruddigore	Oxbridge
+
+Best Chorus
+	Ruddigore	South Anglia
+	Sorcerer	Savoynet Performing Group
+	Yeomen		Cape Town G&S Society
+
+Best Concerted Item
+	Yeomen		Cape Town G&S Society	Strange Adventure
+	Ruddigore	South Anglia	Madrigal
+	Patience	Derby G&S	I hear the soft note
+
+Best Male Voice
+	Ruddigore	Oxbridge	Richard Dauntless	Nicholas Scott
+	Ruddigore	South Anglia	Richard Dauntless	Adam L Sullivan
+	Sorcerer	Savoynet	Dr Daly			Jonathan Ichikawa
+
+Best Female Voice
+	Sorcerer	Savoynet	Aline		Anne Slovin
+	Ruddigore	South Anglia	Rose		Annabel Gipp
+	Patience	Derby G&S	Patience	Marian Porter
+
+Best Supporting Actor
+	Ruddigore	South Anglia	Sir Despard	Mick Wilson
+	Iolanthe	Peak Opera	Mountararat	Ian Henderson
+	Patience	Derby G&S	Colonel		Mike Tipler
+
+Best Supporting Actress
+	Mikado		WWOS		Pitti-Sing	Nadine Plater
+	Ruddigore	Oxbridge	Zorah		Daisy Brown
+	Yeomen		Cape Town G&S Society	Kate	Sian Atterbury
+
+Best Character Actor
+	Mikado		WWOS		Ko-Ko		Andy Moore
+	Ruddigore	Oxbridge	Sir Roderic	Benjamin Lewis
+	Pirates		Godalming Operatic Society	Maj Gen Stanley	Simon Cakebread
+
+Best Character Actress
+	Ruddigore	South Anglia	Dame Hannah	Anthea Kenna
+	Patience	Derby G&S	Lady Jane	Joan Self
+	Pirates		Godalming Operatic Society	Ruth	Nora Price
+
+Best Duet
+	Ruddigore	Oxbridge	Battle's Roar
+	Ruddigore	South Anglia	Battle's Roar
+	Patience	Derby G&S	So go to him
+
+Best Costumes
+	Yeomen		Cape Town G&S Society
+	Ruddigore	South Anglia
+	Mikado		WWOS
+
+Best Traditional Opera
+	Ruddigore	South Anglia
+	Ruddigore	Oxbridge Opera Company
+	Yeomen		Cape Town G&S Society
+
+Best Musical Director
+	Ruddigore	South Anglia	MD	Stephen Kenna
+	Mikado		WWOS		MD	John Hargreaves
+	Yeomen		Cape Town G&S Society	MD	Alastair Cockburn
+
+Best Male Performer
+	Ruddigore	South Anglia	Richard Dauntless	Adam L Sullivan
+	Iolanthe	Peak Opera	Strephon	David Thompson
+	Mikado		WWOS		Ko-Ko	Andy Moore
+
+Best Female Performer
+	Ruddigore	South Anglia	Mad Margaret	Jenny Haxell
+	Sorcerer	Savoynet	Aline	Anne Slovin
+	Ruddigore	South Anglia	Dame Hannah	Anthea Kenna
+
+Adjudicator's Award: "The Dialogue Prize"
+	Mikado		WWOS
+	Ruddigore	South Anglia
+	Sorcerer	Savoynet
+
+Best Animated Chorus
+	Ruddigore	South Anglia
+	Sorcerer	Savoynet
+	Yeomen		Cape Town G&S Society
+
+Best Director
+	Mikado		WWOS		Director	Kevin Gauntlett
+	Ruddigore	South Anglia	Director	Stephen Kenna
+	Sorcerer	Savoynet	Director	Gary Slavin
+	Yeomen		Cape Town G&S Society	Director	Teddy Davies
