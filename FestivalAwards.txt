@@ -41,8 +41,6 @@ Best Overseas Society
 	Utopia	Hancock County G&S Society
 
 1995
-Award
-	Show	Company		Role	Performer
 *Champions*
 	Princess Ida	Lamplighters
 	Pinafore	Houston G&S Society
@@ -130,8 +128,6 @@ Best Overseas Society
 	Iolanthe	Hancock County G&S
 
 1996
-Award
-	Show	Company		Role	Performer
 *Champions*
 	Yeomen	South Anglia
 	Pirates	Forum Theatre Billingham
@@ -183,8 +179,6 @@ Best Chorus
 	Gondoliers	Hancock County G&S Society
 
 2012
-Award
-	Show	Company		Role	Performer
 *Champions*
 	Ruddigore	South Anglia
 	Yeomen		Cape Town G&S Society

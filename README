@@ -15,3 +15,9 @@ instance.)
 
 Not all awards have nominations listed. This may be because none were named, but
 it may also be because I just don't have the information. Submissions welcome.
+
+The file format is simple: tab delimited fields. Any number of tabs is a single
+delimiter. The first field is either the year or the award; in either case there
+will be no other fields. Otherwise, the fields are Show, Company, Role, and
+Performer, in that order; obviously not all awards use all fields.
+
