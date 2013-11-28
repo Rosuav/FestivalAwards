@@ -19,5 +19,7 @@ it may also be because I just don't have the information. Submissions welcome.
 The file format is simple: tab delimited fields. Any number of tabs is a single
 delimiter. The first field is either the year or the award; in either case there
 will be no other fields. Otherwise, the fields are Show, Company, Role, and
-Performer, in that order; obviously not all awards use all fields.
-
+Performer, in that order; obviously not all awards use all fields. Within each
+award, the first entry is for the winner, and subsequent are for nominations. For
+the *Champions* entry, this is strictly ordered (champions, then first runners-up,
+then second runners-up); nominations for other awards have no meaningful order.
