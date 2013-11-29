@@ -822,7 +822,7 @@ Best Duet
 	Utopia		Philadelphia G&S Players	Words of Love	Rebecca Hains/Jeffrey Coon
 	Sorcerer	Derby G&S Company		Welcome Joy	Joan Self/John Torr
 
-Best Costume
+Best Costumes
 	Gondoliers	Nene Opera
 	Iolanthe	Savoynet
 	Mikado		South Anglia
@@ -960,6 +960,95 @@ Best Traditional Opera
 	Gondoliers	South Anglia
 	Patience	Trent Opera
 	Princess Ida	Fraser Valley
+
+2007
+*Champions*
+	Mikado		Festival Productions Ireland
+	Princess Ida	South Anglia
+	Patience	G&S Opera Victoria
+
+Best Chorus
+	Mikado		Festival Productions Ireland
+	Mikado		Trent Opera
+	Princess Ida	South Anglia
+
+Best Supporting Actor
+	Princess Ida	South Anglia			Hildebrand	Glynn McKay
+	Gondoliers	Abbots Langley			Don Alhambra	Robert Milner
+	Pinafore	Savoynet			Boatswaion	Tony Smith
+
+Best Supporting Actress
+	Patience	G&S Opera Victoria		Lady Jane	Lynlee Williams
+	Princess Ida	South Anglia			Lady Blanche	Anthea Kenna
+	Gondoliers	Cape Town G&S Society		Casilda		Tessa Snitcher
+
+Best Concerted Item
+	Pirates		Liverpool Theatre School and College	Rocky Mountain
+	Gondoliers	Cape Town G&S Society		Cachucha
+	Mikado		Festival Productions Ireland	Here's a how-de-do
+
+Best Male Voice
+	Patience	G&S Opera Victoria		Grosvenor	Ian Henderson
+	Yeomen		Nene Opera			Fairfax		Paul Bailey
+	Princess Ida	South Anglia			Hilarion	Philip Lee
+
+Best Female Voice
+	Patience	G&S Opera Victoria		Lady Jane	Lynlee Williams
+	Iolanthe	Philadelphia G&S Union		Phyllis		Jennifer Graf
+	Ruddigore	Festival Production		Rose Maybud	Penny Draw
+
+Best Duet
+	Gondoliers	Cape Town G&S Society		O Rapture
+	Ruddigore	Festival Production		I know a youth
+	Patience	G&S Opera Victoria		Prithee, pretty maiden
+
+Best Character Actor
+	Mikado		Festival Productions Ireland	Ko-Ko		Eugene O'Hagan
+	Yeomen		Nene Opera			Shadbolt	Tim Hurst-Brown
+	Princess Ida	South Anglia			King Gama	Paul Tarrant
+
+Best Character Actress
+	Mikado		Festival Productions Ireland	Katisha		Jacki Curren-Olahan
+	Patience	G&S Opera Victoria		Lady Jane	Lynlee Williams
+	Ruddigore	Festival Production		Mad Margaret	Elise Curran
+
+Best Musical Director
+	Princess Ida	South Anglia			MD		Stephen Kenna
+	Mikado		Trent Opera			MD		Andrew Nicklin
+	Mikado		Festival Productions Ireland	MD		Aidan Faughey
+
+Best Director
+	Mikado		Festival Productions Ireland	Director	Vivian Coates
+	Patience	G&S Opera Victoria		Director	Robert Ray
+	Princess Ida	South Anglia			Director	Shane Collins
+
+Best Male Performer
+	Mikado		Festival Productions Ireland	Mikado		Derek Ryan
+	Mikado		Trent Opera			Mikado		Simon Theobald
+	Ruddigore	Festival Production		Robin Oakapple	Tim Hunt
+
+Best Female Performer
+	Princess Ida	South Anglia			Princess Ida	Charlotte Wattebot O'Brien
+	Patience	G&S Opera Victoria		Lady Jane	Lynlee Williams
+	Mikado		Festival Productions Ireland	Katisha		Jackie Curren-Olohan
+
+Best Animated Chorus
+	Princess Ida	South Anglia
+	Gondoliers	Cape Town G&S Society
+	Patience	G&S Opera Victoria
+
+Adjudicators Award
+	???		Liverpool Theatre School and College
+
+Best Traditional Opera
+	Princess Ida	South Anglia
+	Pinafore	Savoynet
+	Gondoliers	Abbots Langley
+
+Best Costumes
+	Mikado		Festival Productions Ireland
+	Gondoliers	Cape Town G&S Society
+	Princess Ida	South Anglia
 
 2012
 *Champions*
