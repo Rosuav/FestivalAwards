@@ -267,7 +267,7 @@ Best Supporting Actress
 	Yeomen		Houston G&S Society		Phoebe		Kitty Karn
 
 Best Concerted Item
-	Patience	Trent Opera			I Hear the Soft Note
+	Patience	Trent Opera			I hear the soft note
 
 Best Male Voice
 	Trial by Jury	Savoynet			Defendant	Nick Sales
@@ -455,6 +455,85 @@ Best Animated Chorus
 	Iolanthe	Derby G&S Company
 	Princess Ida	Sale G&S Society
 	Iolanthe	South Anglia
+
+2001
+*Champions*
+	Pirates		South Anglia
+	Gondoliers	Trent Opera
+	Mikado		Derby G&S Company
+
+Best Chorus
+	Mikado		Derby G&S Company
+	Iolanthe	Festival Production
+	Patience	Nene Opera
+
+Best Supporting Actor
+	Ruddigore	Rose Hill		Old Adam	Tony Ely
+	Pirates		South Anglia		Samuel		Paul Chittleborough
+	Mikado		Derby G&S Company	Pish-Tush	Andrew McPhee
+
+Best Supporting Actress
+	Pirates		South Anglia		Kate		Helen Fox
+	Patience	Nene Opera		Lady Saphir	Amy Hickey
+	Mikado		Derby G&S Company	Pitti-Sing	Jean Krzeminski
+
+Best Concerted Item
+	Pirates		South Anglia		Hail Poetry
+	Patience	Nene Opera		I hear the soft note
+	Ruddigore	Rose Hill		Madrigal
+
+Best Male Voice
+	Iolanthe	Festival Production	Private Willis	Paul Thompson
+	Gondoliers	Trent Opera		Marco		Mark Pollard
+	Mikado		Derby G&S Company	Mikado		Simon Theobald
+	Pirates		South Anglia		Frederic	Mick Wilson
+
+Best Female Voice
+	Pirates		South Anglia		Mabel		Charlotte Wattebot O'Brien
+	Gondolies	Trent Opera		Gianetta	Elizabeth Bruce
+	Mikado		Derby G&S Company	Yum-Yum		Bronwen Evans
+
+Best Character Actor
+	Mikado		Derby G&S Company	Pooh-Bah	Stephen Godward
+	Grand Duke	Savoy Singers, Camberly	Prince of Monte Carlo	Duncan Hamilton
+	Ruddigore	Rose Hill		Dauntless	Tony Luke
+
+Best Character Actress
+	Patience	Nene Opera		Lady Jane	Kathy George
+	Patience	South Anglia		Ruth		Christine Anson
+	Yeomen		Edmund Rice C&M Society	Dame Carruthers	Eileen Barks-Marner
+
+Best Musical Director
+	Pirates		South Anglia		MD		Stephen Kenna
+	Ruddigore	Rose Hill		MD		David Blackwell
+	Patience	Nene Opera		MD		Keith Oliver
+
+Best Traditional Production
+	Gondoliers	Trent Opera
+	Patience	Nene Opera
+	Pirates		South Anglia
+
+Best Male Performer
+	Mikado/Patience	Derby G&S Company/Nene Opera	Ko-Ko/Grosvenor	Patrick Dawson/Tim Hurst-Brown
+	Gondoliers	Trent Opera		Don Alhambra	Stephen Godward
+
+Best Female Performer
+	Grand Duke	Savoy Singers, Camberly	Julia Jellicoe	Susan Prior
+	Ruddigore	Rose Hill		Mad Margaret	Ellen Godfrey
+	Gondoliers	Trent Opera		Casilda		Joy Nicol
+
+Best Director
+	Pirates		South Anglia		Director	Derek Collins
+	Patience	Nene Opera		Director	Tim Hurst-Brown
+	Mikado		Derby G&S Company	Director	Andrew Nicklin
+
+Adjudicator's Special Award
+	Pinafore/Patience	St Mary's High School/Savoynet	Josephine/Dragoons	Lorraine Corbett/chorus
+	Pinafore	Southampton Operatic Society	Corcoran	Mike Pavitt
+	Iolanthe	Festival Production		Phyllis		Rachel Harland
+
+Best Animated Chorus
+	Pirates		South Anglia
 
 2012
 *Champions*
