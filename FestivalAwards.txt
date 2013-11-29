@@ -441,7 +441,7 @@ Best Male Performer
 Best Female Performer
 	Mikado		Festival Production	Yum-Yum		Bronwen Evans
 	Princess Ida	Sale G&S Society	Princess Ida	Eileen Jackson
-	Iolanthe	South Anglia		Phyllis		Charlotte O'Brien
+	Iolanthe	South Anglia		Phyllis		Charlotte Wattebot O'Brien
 
 Best Director
 	Iolanthe	Derby G&S Company	Director	Andrew Nicklin
@@ -534,6 +534,87 @@ Adjudicator's Special Award
 
 Best Animated Chorus
 	Pirates		South Anglia
+
+2002
+*Champions*
+	Ruddigore	South Anglia
+	Pinafore/Trial by Jury	Trent Opera/Blue Coat
+	Yeomen		St Mary's High School
+
+Best Chorus
+	Pinafore	Trent Opera
+	Ruddigore	South Anglia
+	Patience	Trinity
+
+Best Supporting Actor
+	Yeomen		Peterborough		Shadbolt	Mark Simnett
+	Patience	Trinity			Dick Dauntless	Mick Wilson
+	Pinafore	Trent Opera		Dick Deadeye	Stephen Godward
+
+Best Supporting Actress
+	Pinafore	Trent Opera		Buttercup	Zena Bradley
+	Ruddigore	South Anglia		Mad Margaret	Elizabeth Elliot
+	Yeomen		St Mary's High School	Dame Carruthers	Louise Dean
+
+Best Concerted Item
+	Pirates		Nene Opera		Hail Poetry
+	Ruddigore	South Anglia		Madrigal
+	Yeomen		Peterborough		Strange Adventure
+	Pinafore	Trent Opera		Finale Act 1
+
+Best Male Voice
+	Sorcerer	Savoynet		Sir Marmaduke	Ian Henderson
+	Ruddigore	South Anglia		Dick Dauntless	Mick Wilson
+	Pirates		Nene Opera		Pirate King	Alasdair Baker
+
+Best Female Voice
+	Ruddigore	South Anglia		Rose Maybud	Charlotte Wattebot O'Brien
+	Yeomen		Peterborough		Elsie Maynard	Karen Simnett
+	Pirates		Nene Opera		Mabel		Ruth Ireson
+	Pinafore	Trent Opera		Josephine	Joy Nicol
+
+Best Character Actor
+	Ruddigore	South Anglia		Old Adam	Patrick Gallagher
+	Yeomen		Peterborough		Sgt Meryll	David Duffy
+	Pirates		Nene Opera		Maj Gen Stanley	Tim Hurst-Brown
+Best Character Actress
+	Sorcerer	Savoynet		Lady Sangazure	Angela Lowe
+	Pinafore	Trent Opera		Buttercup	Zena Bradley
+
+Best Musical Director
+	Ruddigore	South Anglia		MD		Stephen Kenna
+	Patience	Trinity			MD		Anton Archer
+	Yeomen		Peterborough		MD		Keith Oliver
+
+Best Traditional Production
+	Ruddigore	South Anglia
+	Sorcerer	Savoynet
+	Patience	Trinity
+	Yeomen		Peterborough
+
+Best Male Performer
+	Ruddigore	South Anglia		Dick Dauntless	Mick Wilson
+	Yeomen		St Mary's High School	Jack Point	Steven Blears
+	Patience	Trinity			Bunthorne	Tony Brett
+	Yeomen		Peterborough		Jack Point	John Torr
+
+Best Female Performer
+	Princess Ida	Festival Production	Lady Blanche	Alison Davis
+	Ruddigore	South Anglia		Rose Maybud	Charlotte Wattebot O'Brien
+	Sorcerer	Savoynet		Aline		Jackie Richards
+
+Best Director
+	Yeomen		St Mary's High School	Director	Andrea Atherton
+	Ruddigore	South Anglia		Director	Pat O'Connell
+
+Best Animated Chorus
+	Yeomen		St Mary's High School
+	Ruddigore	South Anglia
+	Patience	Trinity
+	Pinafore	Trent Opera
+
+Adjudicator's Special Award
+	Yeomen		St Mary's High School	Jack Point	Steven Blears
 
 2012
 *Champions*
