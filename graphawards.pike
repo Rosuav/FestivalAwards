@@ -99,7 +99,7 @@ void http_(Protocols.HTTP.Server.Request r)
 %{<tr><td>Restrict to some %ss:</td><td><select multiple size=6 name=%<s>%{
 	<option>%s</option>%}
 </select></td></tr>
-%}<tr><td>Show only the highest ranked how many:</td><td><input name=limit></td></tr>
+%}<tr><td>Show only the highest ranked how many:</td><td><input name=limit value=10> (0 for all)</td></tr>
 </table>
 <input type=submit value='Generate'>
 </form>
