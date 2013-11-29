@@ -27,6 +27,10 @@ mapping(string:int) parse_data(mapping(string:mixed) options)
 		//to weight MUST be multiplied together, to ensure that zero is "sticky".
 		int weight=havewinner?options->nominationweight:options->winnerweight;
 		havewinner=1;
+		//Identify the champions by year and company name (eg "South Anglia").
+		//This isn't perfect, but since the competition is for amateur companies
+		//only, and amateur companies don't usually perform multiple shows in a
+		//single festival year, it should normally be safe.
 		if (award=="*Champions*") champions[line[1]]=1;
 		else weight*=champions[line[1]]?options->championweight:options->nonchampweight;
 		if (options["suppress"+year]) weight=0;
