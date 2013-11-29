@@ -135,6 +135,7 @@ int main(int argc,array(string) argv)
 	if (argc>1 && sscanf(argv[1],"--port=%d",int port) && port)
 	{
 		Protocols.HTTP.Server.Port(http,port,"::");
+		if (argc>2 && sscanf(argv[2],"--uid=%d",int uid) && uid) setuid(uid);
 		write("Now listening for queries on port %d.\n",port);
 		return -1;
 	}
