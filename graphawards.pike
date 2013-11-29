@@ -34,7 +34,7 @@ mapping(string:int) parse_data(mapping(string:mixed) options)
 		if (award=="*Champions*") champions[line[1]]=1;
 		else weight*=champions[line[1]]?options->championweight:options->nonchampweight;
 		if (options["suppress"+year]) weight=0;
-		weight*=options->awardfilter[award];
+		if (options->awardfilter) weight*=options->awardfilter[award];
 		if (weight) graphdata[line[options->countfield]]+=weight;
 	}
 	return graphdata;
