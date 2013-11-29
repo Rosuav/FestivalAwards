@@ -807,7 +807,7 @@ Best Concerted Item
 	Mikado		South Anglia			Madrigal
 	Yeomen		Abbots Langley			Act 2 trio
 
-Best Male Voice 
+Best Male Voice
 	Gondoliers	Nene Opera			Giuseppe	John Savournin
 	Iolanthe	Savoynet			Strephon	Gary Maslan
 	Mikado		South Anglia			Nanki-Poo	Mick Wilson
@@ -869,6 +869,97 @@ Best Traditional Opera
 	Mikado		South Anglia
 	Mikado		Sale G&S Society
 	Gondoliers	Nene Opera
+
+2006
+*Champions*
+	Pirates		Derby G&S Company
+	Gondoliers	South Anglia
+	Mikado		Nene Opera
+
+Best Chorus
+	Pirates		Derby G&S Company
+	Ruddigore	Savoynet
+	Gondoliers	South Anglia
+	Princess Ida	Fraser Valley
+
+Best Supporting Actor
+	Princess Ida	Fraser Valley			Florian		Charles Wiebe
+	Mikado		Nene Opera			Pooh-Bah	Tim Hurst-Brown
+	Yeomen		Festival Production		Shadbolt	Stephen Godward
+	Gondoliers	South Anglia			Don Alhambra	Philip Crapnell
+
+Best Supporting Actress
+	Gondoliers	South Anglia			Gianetta	Jenny Haxell
+	Gondoliers	South Anglia			Casilda		Stephanie Wilson
+	Gondoliers	South Anglia			Tessa		Jackie Mitchell
+
+Best Concerted Item
+	Pirates		Derby G&S Company		Hail Poetry
+	Iolanthe	Peak Opera			Peers' March
+	Patience	Trent Opera			If Saphir I choose to marry
+	Princess Ida	Fraser Valley			Broken Toy
+
+Best Male Voice
+	Yeomen		Festival Production		Fairfax		John Hurst
+	Gondoliers	South Anglia			Marco		Mick Wilson
+	Pirates		Derby G&S Company		Frederic	Gari Glaysher
+
+Best Female Voice
+	Princess Ida	Fraser Valley			Princess Ida	Gwendolyn Boylan
+	The Zoo		Actors' Opera NY		Laetitia	Karen Mason
+	Patience	Trent Opera			Patience	Joy Nicol
+	Yeomen		Festival Production		Elsie Maynard	Penny Daw
+
+Best Duet
+	Ruddigore	Savoynet	There grew a little flower	Vikki Willoughby/William Revels
+	Mikado		Nene Opera	Nanki-Poo, Yum-Yum
+
+Best Character Actor
+	Pirates		Derby G&S Company		Pirate King	Simon Theobald
+	Princess Ida	Fraser Valley			King Gama	Phil Aldridge
+	Iolanthe	Peak Opera			Lord Chancellor	Ian Henderson
+	Gondoliers	South Anglia			Duke of Plaza-Toro	Paul Tarrant
+
+Best Character Actress
+	Pirates		Derby G&S Company		Ruth		Judith Oldbury
+	Yeomen		Festival Production		Dame Carruthers	Alison Davis
+	Gondoliers	South Anglia			Duchess of Plaza-Toro	Anthea Kenna
+	Iolanthe	Peak Opera			Fairy Queen	Angela Lowe
+
+Best Musical Director
+	Pirates		Derby G&S Company		MD		Andrew Nicklin
+	Gondoliers	South Anglia			MD		Stephen Kenna
+	The Zoo		Actors' Opera NY		MD		James Stenborg
+
+Best Director
+	Pirates		Derby G&S Company		Director	Andrew Nicklin
+	Gondoliers	South Anglia			Director	Shane Collins
+	Mikado		Nene Opera			Director	Tim Hurst-Brown
+
+Best Male Performer
+	Gondoliers	South Anglia			Duke of Plaza-Toro	Paul Tarrant
+	Iolanthe	Trent Opera			Bunthorne	Philip Fry
+	Iolanthe	Trent Opera			Grosvenor	Simon Theobald
+
+Best Female Performer
+	Patience	Trent Opera			Patience	Joy Nicol
+	Ruddigore	Savoynet			Rose Maybud	Sian Jones
+	Yeomen		Festival Production		Elsie Maynard	Penny Daw
+
+Best Animated Chorus
+	Ruddigore	Savoynet
+	Princess Ida	Fraser Valley
+	Pirates		Derby G&S Company
+
+Adjudicators Award
+	Princess Ida	Fraser Valley			Costumes
+	Ruddigore	Savoynet			Robin and Rose duet
+
+Best Traditional Opera
+	Mikado		Nene Opera
+	Gondoliers	South Anglia
+	Patience	Trent Opera
+	Princess Ida	Fraser Valley
 
 2012
 *Champions*
