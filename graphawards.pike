@@ -2,8 +2,9 @@
 //Can filter somewhat. May later gain grouping capabilities.
 
 array(string) data=Stdio.read_file("FestivalAwards.txt")/"\n"-({""});
+array(string) awards=Array.uniq(filter(data,lambda(string s) {return s[0]!='\t' && !(int)s && s!="*Champions*";}));
 
-mapping(string:int) parse_data(mapping(string:string|int) options)
+mapping(string:int) parse_data(mapping(string:mixed) options)
 {
 	int year; string award; //What we're currently getting data for
 	int havewinner; //Set to 1 when we've seen a winner for this award.
@@ -29,7 +30,8 @@ mapping(string:int) parse_data(mapping(string:string|int) options)
 		if (award=="*Champions*") champions[line[1]]=1;
 		else weight*=champions[line[1]]?options->championweight:options->nonchampweight;
 		if (options["suppress"+year]) weight=0;
-		graphdata[line[options->countfield]]+=weight;
+		weight*=options->awardfilter[award];
+		if (weight) graphdata[line[options->countfield]]+=weight;
 	}
 	return graphdata;
 }
@@ -37,8 +39,14 @@ mapping(string:int) parse_data(mapping(string:string|int) options)
 void http_graph_png(Protocols.HTTP.Server.Request r)
 {
 	if (mixed ex=catch {
-		mapping(string:int) info=(mapping(string:int))r->variables; //Will throw if there are duplicates (and thus arrays)
-		mapping ret=parse_data(info);
+		//Tidy up the incoming configuration. Most of the info we want is integers,
+		//so cast them all the easy way; this won't work with an array of strings,
+		//though, so pull that one out and patch it back in afterward (as a set).
+		array(string) awardfilter=Array.arrayify(m_delete(r->variables,"award")||awards);
+		mapping(string:mixed) info=(mapping(string:int))r->variables;
+		info->awardfilter=(multiset(string))awardfilter;
+
+		mapping(string:int) ret=parse_data(info);
 		m_delete(ret,""); //Blank entries aren't very useful.
 		array(string) labels=indices(ret);
 		array(float) weights=(array(float))sort(values(ret),labels);
@@ -59,7 +67,7 @@ void http_graph_png(Protocols.HTTP.Server.Request r)
 
 void http_(Protocols.HTTP.Server.Request r)
 {
-	r->response_and_finish((["type":"text/html","data":#"<!doctype html>
+	r->response_and_finish((["type":"text/html","data":sprintf(#"<!doctype html>
 <html>
 <head>
 <title>International G&S Festival Awards</title>
@@ -79,6 +87,9 @@ void http_(Protocols.HTTP.Server.Request r)
 	<option value=2>Role (eg Elsie Maynard, Alexis)</option>
 	<option value=3>Performer (eg Anne Slovin, Joan Self)</option>
 </select></td></tr>
+<tr><td>Restrict to some awards:</td><td><select multiple size=6 name=award>%{
+	<option>%s</option>%}
+</select></td></tr>
 <tr><td>Show only the highest ranked how many:</td><td><input name=limit></td></tr>
 </table>
 <input type=submit value='Generate'>
@@ -90,7 +101,7 @@ which did.</p>
 <p>Limiting the number of results shown will help to keep the graph readable.</p>
 </body>
 </html>
-"]));
+",awards)]));
 }
 
 void http(Protocols.HTTP.Server.Request r)
