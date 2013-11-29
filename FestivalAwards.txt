@@ -377,6 +377,85 @@ Best Animated Chorus
 	Sorcerer	Rosehill
 	Yeomen		Derby G&S Company
 
+2000
+*Champions*
+	Iolanthe	Derby G&S Company
+	Iolanthe	South Anglia
+	Princess Ida	Sale G&S Society
+
+Best Chorus
+	Iolanthe	South Anglia		Finale
+	Iolanthe	Derby G&S Company
+	Princess Ida	Sale G&S Society
+
+Best Supporting Actor
+	Thespis		G&S Players USA		Mercury		Brendan O'Brien
+	Sorcerer	Nene Opera		Dr Daly		Tim Hurst-Brown
+	Mikado		Festival Production	Mikado		Paul Thompson
+
+Best Supporting Actress
+	Mikado		Festival Production	Pitti-Sing	Helen Lever
+	Sorcerer	Nene Opera		Mrs Partlett	Kathy George
+	Gondoliers	Putteridge Bury G&S Society	Duchess of Plaza-Toro	Ruth Moustaquim
+
+Best Concerted Item
+	Sorcerer	Nene Opera		I rejoice that it's decided
+	Iolanthe	Derby G&S Company	Though p'raps I may incur your blame
+	Mikado		Festival Production	Brightly dawns our wedding day
+
+Best Male Voice
+	Sorcerer	Nene Opera		Sir Marmaduke	Alasdair Baker
+	Thespis		G&S Players USA		Thespis		John Dennison
+	Iolanthe	South Anglia		Tolloller	Mick Wilson
+
+Best Female Voice
+	Mikado		Festival Production	Yum-Yum		Bronwen Evans
+	Pirates		Savoy Club, Glasgow	Mabel		Maureen Craig
+	Sorcerer	Nene Opera		Aline		Ruth Ireson
+
+Best Character Actor
+	Princess Ida	Sale G&S Society	King Gama	David Kay
+	Pirates		Savoy Club, Glasgow	Maj Gen Stanley	David Craig
+	Sorcerer	Nene Opera		Dr Daly		Tim Hurst-Brown
+
+Best Character Actress
+	Princess Ida	Sale G&S Society	Lady Blanche	Alison Davis
+	Iolanthe	South Anglia		Fairy Queen	Ann Barber
+	Sorcerer	Nene Opera		Mrs Partlett	Kathy George
+
+Best Musical Director
+	Iolanthe	South Anglia		MD		Brian Brown
+	Mikado		Trent Opera		MD		Andrew Nicklin
+	Iolanthe	Derby G&S Company	MD		Christine Nicklin
+
+Best Traditional Production
+	Princess Ida	Sale G&S Society
+	Iolanthe	South Anglia
+	Pirates		Savoy Club, Glasgow
+
+Best Male Performer
+	Pirates		Savoy Club, Glasgow	Maj Gen Stanley	David Craig
+	Iolanthe	Derby G&S Company	Lord Chancellor	Patrick Dawson
+	Mikado		Trent Opera		Pooh-Bah	Stephen Godward
+
+Best Female Performer
+	Mikado		Festival Production	Yum-Yum		Bronwen Evans
+	Princess Ida	Sale G&S Society	Princess Ida	Eileen Jackson
+	Iolanthe	South Anglia		Phyllis		Charlotte O'Brien
+
+Best Director
+	Iolanthe	Derby G&S Company	Director	Andrew Nicklin
+	Iolanthe	South Anglia		Director	Derek Collins
+	Princess Ida	Sale G&S Society	Director	Eileen Jackson
+
+Adjudicator's Special Award
+	Pinafore	Bournemouth G&S		Boatswain	Robin Lavies
+
+Best Animated Chorus
+	Iolanthe	Derby G&S Company
+	Princess Ida	Sale G&S Society
+	Iolanthe	South Anglia
+
 2012
 *Champions*
 	Ruddigore	South Anglia
