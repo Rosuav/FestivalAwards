@@ -34,9 +34,79 @@ mapping(string:int) parse_data(mapping(string:string|int) options)
 	return graphdata;
 }
 
-
-int main()
+void http_graph_png(Protocols.HTTP.Server.Request r)
 {
+	if (mixed ex=catch {
+		mapping(string:int) info=(mapping(string:int))r->variables; //Will throw if there are duplicates (and thus arrays)
+		mapping ret=parse_data(info);
+		m_delete(ret,""); //Blank entries aren't very useful.
+		array(string) labels=indices(ret);
+		array(float) weights=(array(float))sort(values(ret),labels);
+		if (info->limit) {labels=labels[<info->limit-1..]; weights=weights[<info->limit-1..];}
+		mapping graphdata=([
+			"xsize":info->xsize||1024,"ysize":info->ysize||768,
+			"fontsize":info->fontsize||12,
+			"data":({weights}),"xnames":labels,
+		]);
+		Image.Image graph=Graphics.Graph.bars(graphdata);
+		r->response_and_finish((["type":"image/png","data":Image.PNG.encode(graph)]));
+	})
+	{
+		werror("Unexpected exception! Input variables: %O\nException:\n%s\n---------------\n",r->variables,describe_backtrace(ex));
+		r->response_and_finish((["error":500,"type":"text/plain","data":"Unexpected server error, please check log"]));
+	}
+}
+
+void http_(Protocols.HTTP.Server.Request r)
+{
+	r->response_and_finish((["type":"text/html","data":#"<!doctype html>
+<html>
+<head>
+<title>International G&S Festival Awards</title>
+</head>
+<body>
+<h2>International G&S Festival Awards</h2>
+<p>Graph options:</p>
+<form action='graph.png'>
+<table>
+<tr><td>Weight an award win at:</td><td><input name=winnerweight value=3></td></tr>
+<tr><td>Weight a non-winning nomination at:</td><td><input name=nominationweight value=1></td></tr>
+<tr><td>Weight that year's champions at:</td><td><input name=championweight value=1></td></tr>
+<tr><td>Weight that year's non-champions at:</td><td><input name=nonchampweight value=1></td></tr>
+<tr><td>Graph which attribute?</td><td><select name=countfield>
+	<option value=0>Show (eg Pirates, Ruddigore)</option>
+	<option value=1>Company (eg South Anglia, Savoynet)</option>
+	<option value=2>Role (eg Elsie Maynard, Alexis)</option>
+	<option value=3>Performer (eg Anne Slovin, Joan Self)</option>
+</select></td></tr>
+<tr><td>Show only the highest ranked how many:</td><td><input name=limit></td></tr>
+</table>
+<input type=submit value='Generate'>
+</form>
+<p>Note: For all weights, use 0 to suppress that entirely. For instance, setting the champions
+weight to 0 will graph only those shows which did not win one of the top three places (the
+champions and two runners-up), and setting the non-champions weight to 0 will graph only those
+which did.</p>
+<p>Limiting the number of results shown will help to keep the graph readable.</p>
+</body>
+</html>
+"]));
+}
+
+void http(Protocols.HTTP.Server.Request r)
+{
+	if (function f=this["http"+replace(r->not_query,({"/","."}),"_")]) f(r);
+	else r->response_and_finish((["error":404,"data":"Not found","type":"text/plain"]));
+}
+
+int main(int argc,array(string) argv)
+{
+	if (argc>1 && sscanf(argv[1],"--port=%d",int port) && port)
+	{
+		Protocols.HTTP.Server.Port(http,port,"::");
+		write("Now listening for queries on port %d.\n",port);
+		return -1;
+	}
 	mapping ret=parse_data(([
 		"winnerweight":3, //Set to 0 to count only nominations
 		"nominationweight":1, //Set to 0 to count only winners
