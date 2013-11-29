@@ -490,7 +490,7 @@ Best Male Voice
 
 Best Female Voice
 	Pirates		South Anglia		Mabel		Charlotte Wattebot O'Brien
-	Gondolies	Trent Opera		Gianetta	Elizabeth Bruce
+	Gondoliers	Trent Opera		Gianetta	Elizabeth Bruce
 	Mikado		Derby G&S Company	Yum-Yum		Bronwen Evans
 
 Best Character Actor
