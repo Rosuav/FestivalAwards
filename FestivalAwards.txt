@@ -5,7 +5,7 @@
 	Pirates	South Anglia Savoy Players
 
 Best Supporting Actor
-	Gondoliers	St Mary's	Don Alhambra	Simon Rigby
+	Gondoliers	St Mary's High School	Don Alhambra	Simon Rigby
 
 Best Supporting Actress
 	Mikado	Festival Production	Katisha	Kathleen Wilkinson
@@ -137,7 +137,7 @@ Best Chorus
 	Pinafore	Seattle G&S Society	Finale Act I
 
 Best Supporting Actor
-	Patience	Sale G&S Society	Duke	Lee Woods
+	Patience	Sale G&S Society	Duke of Dunstable	Lee Woods
 
 Best Supporting Actress
 	Pirates	Forum Theatre Billingham	Ruth	Sally Emerson
@@ -187,7 +187,7 @@ Best Chorus
 Best Animated Chorus	
 	Trial by Jury	Chester County G&S Society
 	Sorcerer	Lamplighters Musical Theatre
-	Mikado		St.Mary's
+	Mikado		St Mary's High School
 
 Best Chorus
 	Pirates		Leicester Operatic Players
@@ -195,7 +195,7 @@ Best Chorus
 	Princess Ida	Derby G&S Company
 
 Best Supporting Actor	
-	Patience	South Anglia			Mick Wilson	Duke of Dunstable
+	Patience	South Anglia			Duke of Dunstable	Mick Wilson
 	The Zoo		G&S Pick-up Member Players	Thomas Brown	Edward Ehinger
 	Pirates		Festival Production		Pirate King	Tony Smith
 
@@ -249,7 +249,7 @@ Best Professional Director
 	Patience	South Anglia			Director	Derek Collins
 
 Adjudicator's Special Award	
-	Mikado		St. Mary's High School
+	Mikado		St Mary's High School
 
 1998
 *Champions*
