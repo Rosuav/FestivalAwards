@@ -2,7 +2,7 @@
 //Can filter somewhat. May later gain grouping capabilities.
 
 array(string) data=Stdio.read_file("FestivalAwards.txt")/"\n"-({""});
-array(string) awards=Array.uniq(filter(data,lambda(string s) {return s[0]!='\t' && !(int)s && s!="*Champions*";}));
+array(string) awards=({}),years=({}),shows=({});
 
 mapping(string:int) parse_data(mapping(string:mixed) options)
 {
@@ -33,8 +33,9 @@ mapping(string:int) parse_data(mapping(string:mixed) options)
 		//single festival year, it should normally be safe.
 		if (award=="*Champions*") champions[line[1]]=1;
 		else weight*=champions[line[1]]?options->championweight:options->nonchampweight;
-		if (options["suppress"+year]) weight=0;
 		if (options->awardfilter) weight*=options->awardfilter[award];
+		if (options->yearfilter) weight*=options->yearfilter[(string)year];
+		if (options->showfilter) weight*=options->showfilter[line[0]];
 		if (weight) foreach (line[options->countfield]/"/",string f) graphdata[f]+=weight;
 	}
 	return graphdata;
@@ -46,9 +47,13 @@ void http_graph_png(Protocols.HTTP.Server.Request r)
 		//Tidy up the incoming configuration. Most of the info we want is integers,
 		//so cast them all the easy way; this won't work with an array of strings,
 		//though, so pull that one out and patch it back in afterward (as a set).
-		array(string) awardfilter=Array.arrayify(m_delete(r->variables,"award")||awards);
+		mapping filters=([
+			"awardfilter":(multiset)Array.arrayify(m_delete(r->variables,"award")||awards),
+			"yearfilter":(multiset)Array.arrayify(m_delete(r->variables,"year")||years),
+			"showfilter":(multiset)Array.arrayify(m_delete(r->variables,"show")||shows),
+		]);
 		mapping(string:mixed) info=(mapping(string:int))r->variables;
-		info->awardfilter=(multiset(string))awardfilter;
+		info+=filters;
 
 		mapping(string:int) ret=parse_data(info);
 		m_delete(ret,""); //Blank entries aren't very useful.
@@ -91,10 +96,10 @@ void http_(Protocols.HTTP.Server.Request r)
 	<option value=2>Role (eg Elsie Maynard, Alexis)</option>
 	<option value=3>Performer (eg Anne Slovin, Joan Self)</option>
 </select></td></tr>
-<tr><td>Restrict to some awards:</td><td><select multiple size=6 name=award>%{
+%{<tr><td>Restrict to some %ss:</td><td><select multiple size=6 name=%<s>%{
 	<option>%s</option>%}
 </select></td></tr>
-<tr><td>Show only the highest ranked how many:</td><td><input name=limit></td></tr>
+%}<tr><td>Show only the highest ranked how many:</td><td><input name=limit></td></tr>
 </table>
 <input type=submit value='Generate'>
 </form>
@@ -105,7 +110,7 @@ which did.</p>
 <p>Limiting the number of results shown will help to keep the graph readable.</p>
 </body>
 </html>
-",awards)]));
+",({({"year",years}),({"award",awards}),({"show",shows})}))]));
 }
 
 void http(Protocols.HTTP.Server.Request r)
@@ -116,6 +121,17 @@ void http(Protocols.HTTP.Server.Request r)
 
 int main(int argc,array(string) argv)
 {
+	multiset(string) show_set=(<>);
+	foreach (data,string s) if (s!="" && s!="*Champions*")
+	{
+		if (s[0]!='\t')
+		{
+			if ((int)s) years+=({s}); //Will never be duplicated
+			else if (!has_value(awards,s)) awards+=({s});
+		}
+		else foreach ((s/"\t")[1]/"/",string show) show_set[show]=1;
+	}
+	shows=sort((array)show_set);
 	if (argc>1 && sscanf(argv[1],"--port=%d",int port) && port)
 	{
 		Protocols.HTTP.Server.Port(http,port,"::");
@@ -128,7 +144,6 @@ int main(int argc,array(string) argv)
 		"countfield":0, //0/1/2/3 = Show/Company/Role/Performer - what gets graphed
 		"championweight":1, //Set to 0 to ignore champions (those who won 1st/2nd/3rd place that year)
 		"nonchampweight":1, //Set to 0 to ignore non-champions
-		//"suppress2013":1, //If nonzero, all data from the chosen year will be suppressed.
 	]));
 	//write("%O\n",ret);
 	array(string) labels=indices(ret);
