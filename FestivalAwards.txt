@@ -243,8 +243,7 @@ Best Female Performer
 	Yeomen		Summer Savoyards Binghampton	Elsie Maynard	Rebecca Houghton
 
 Best Director
-	Princess Ida	Derby G&S Company		Director	Andrew Nicklin
-	Gondoliers	Trent Opera			Director	Andrew Nicklin
+	Princess Ida/Gondoliers		Derby G&S Company/Trent Opera	Director	Andrew Nicklin
 
 Best Professional Director
 	Patience	South Anglia			Director	Derek Collins
