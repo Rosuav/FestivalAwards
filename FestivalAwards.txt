@@ -1493,3 +1493,95 @@ Best Director
 	Ruddigore	South Anglia	Director	Stephen Kenna
 	Sorcerer	Savoynet	Director	Gary Slavin
 	Yeomen		Cape Town G&S Society	Director	Teddy Davies
+
+2013
+*Champions*
+	Yeomen		Savoynet
+	Ruddigore	WWOS
+	Mikado		Harrogate G&S Society
+
+Best Chorus
+	Yeomen		Savoynet
+	Sorcerer	South Anglia
+	Mikado		Harrogate G&S Society
+	Sorcerer	New London
+
+Best Supporting Actor
+	Ruddigore	Derby G&S Company		Sir Roderic	Michael Tipler
+	Sorcerer	South Anglia			Alexis		Lawrence Panter
+	Patience	Grosvenor Light Opera		Grosvenor	Huw Montague Rendall
+
+Best Supporting Actress
+	Sorcerer	South Anglia			Mrs Partlett	Anthea Kenna
+	Yeomen		Savoynet			Phoebe		Rachel Middle
+	Patience	Grosvenor Light Opera		Lady Jane	Joanna Pullicino
+
+Best Male Performer
+	Iolanthe	Trent Opera			Lord Chancellor	Stephen Godward
+	Sorcerer	South Anglia			JW Wells	Adam Sullivan
+	Ruddigore	WWOS				Sir Despard	Adam Gaunt
+	Yeomen		Savoynet			Jack Point	Jonathan Ichikawa
+
+Best Female Performer
+	Ruddigore	WWOS				Mad Margaret	Nadine Plater
+	Ruddigore	Derby G&S Company		Mad Margaret	Jean Krzeminski
+	Yeomen		Savoynet			Elsie Maynard	Anne Slovin
+
+Best Traditional Opera
+	Mikado		Harrogate G&S Society
+	Yeomen		Oxbridge Opera Company
+	Yeomen		Savoynet
+
+Best Animated Chorus
+	Ruddigore	Derby G&S Company
+	Ruddigore	WWOS
+	Yeomen		Savoynet
+
+Best Male Voice
+	Yeomen		Savoynet			Fairfax		Laurie Slavin
+	Yeomen		Oxbridge Opera Company		Fairfax		Pablo Strong
+	Patience	Grosvenor Light Opera		Grosvenor	Huw Montague Rendall
+
+Best Female Voice
+	Yeomen		Savoynet			Elsie Maynard	Anne Slovin
+	Yeomen		Oxbridge Opera Company		Elsie Maynard	Prudence Sanders
+	Princess Ida	Peak Opera			Princess Ida	Peak Opera
+	Ruddigore	WWOS				Rose Maybud	Melody Jane Faulkner
+
+Best Character Actor
+	Mikado		Harrogate G&S Society		Mikado		Donald Stephenson
+	Sorcerer	South Anglia			Dr Daly		Mick Wilson
+	Patience	Grosvenor Light Opera		Bunthorne	David Court
+
+Best Character Actress
+	Yeomen		Savoynet			Dame Carruthers	Julie May
+	Princess Ida	Peak Opera			Lady Blanche	Angela Lowe
+
+Best Costumes
+	Ruddigore	Derby G&S Company
+	Sorcerer	South Anglia
+	Mikado		Harrogate G&S Society
+
+Best Duet
+	Princess Ida	Peak Opera			Sing Hoity Toity
+	Sorcerer	South Anglia			Welcome Joy
+	Patience	Grosvenor Light Opera		Prithee Pretty Maiden
+
+Best Concerted Item
+	Yeomen		Savoynet			When a Wooer
+	Ruddigore	Derby G&S Company		Madrigal
+
+Best Musical Director
+	Sorcerer	New London Opera Group		MD		Graham Rogers
+	Yeomen		Oxbridge Opera Company		MD		Christopher Milton
+	Sorcerer	South Anglia			MD		Stephen Kenna
+	Yeomen		Savoynet			MD		Emily Senturia
+
+Best Director
+	Yeomen		Savoynet			Director	Diana Burleigh
+	Ruddigore	Derby G&S Company		Director	Andrew Nicklin
+	Mikado		Harrogate G&S Society		Director	Alistair Donkin
+	Ruddigore	WWOS				Director	Kevin Gauntlett
+
+Adjudicator's Award
+	Ruddigore	WWOS				Meg and Despard, act 2
