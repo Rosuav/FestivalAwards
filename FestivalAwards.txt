@@ -32,7 +32,7 @@ Best Concerted Item
 	Princess Ida	Preston G&S Society	Gently, gently
 
 Best Musical Director
-	???	Preston G&S Society	MD	Phil Gibbons
+	Princess Ida	Preston G&S Society	MD	Phil Gibbons
 
 Best Director
 	Gondoliers	St Mary's High School	Dir	Andrea Atherton
@@ -77,7 +77,7 @@ Best Male Voice
 	Ruddigore	South Anglia	Sir Roderic	Paul Lazell
 
 Best Female Voice
-	Pinafore	???		Josephine	Kimberley Lane
+	Pinafore	Houston G&S		Josephine	Kimberley Lane
 	Mikado	Savoy, Philadelphia	Yum-Yum		Kathleen Thren
 	Gondoliers	Festival Production	Casilda	Stella Whitehouse
 	Gondoliers	Festival Production	Gianetta	Joan Rawstron
@@ -722,7 +722,7 @@ Best Concerted Item
 	Pinafore	Derby G&S Company		Never Mind the Why and Wherefore
 
 Best Male Voice
-	???		Festival Production		???		John Savourin
+	Sorcerer	Festival Production		???		John Savournin
 	Pinafore	Derby G&S Company		Ralph Rackstraw	Mark Pollard
 	Mikado		Houston G&S Society		Nanki-Poo	John Weinel
 
