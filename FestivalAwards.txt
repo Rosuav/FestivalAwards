@@ -53,7 +53,7 @@ Best Chorus
 	Ruddigore	South Anglia	Finale Act I
 
 Best Supporting Actor
-	Ruddigore	South Anglia	Richard Dauntless	Mick Wilson
+	Ruddigore	South Anglia	Dick Dauntless		Mick Wilson
 	Patience	Wakefield G&S	Major Murgatroyd	Graham Weston
 	Pinafore	Houston G&S	Corcoran		Harrison Moore
 	Princess Ida	Lamplighters	Florian			Jonathan S Spencer
@@ -496,7 +496,7 @@ Best Female Voice
 Best Character Actor
 	Mikado		Derby G&S Company	Pooh-Bah	Stephen Godward
 	Grand Duke	Savoy Singers, Camberly	Prince of Monte Carlo	Duncan Hamilton
-	Ruddigore	Rose Hill		Dauntless	Tony Luke
+	Ruddigore	Rose Hill		Dick Dauntless	Tony Luke
 
 Best Character Actress
 	Patience	Nene Opera		Lady Jane	Kathy George
@@ -1050,6 +1050,91 @@ Best Costumes
 	Gondoliers	Cape Town G&S Society
 	Princess Ida	South Anglia
 
+2008
+*Champions*
+	Pirates		Festival Productions Ireland
+	Sorcerer	Trent Opera
+	Ruddigore	Abbots Langley
+
+Best Chorus
+	Pirates		Festival Productions Ireland
+	Yeomen		Derby G&S Company
+	Sorcerer	Trent Opera
+
+Best Supporting Actor
+	Mikado		Edmund Rice C&M Society		Pish-Tush	Simon Theobald
+	Sorcerer	Trent Opera			Dr Daly		Stephen Godward
+	Ruddigore	Abbots Langley			Sir Despard	Gareth Edwards
+
+Best Supporting Actress
+	Yeomen		South Anglia			Phoebe		Jackie Mitchell
+	Princess Ida	Savoynet			Lady Psyche	Victoria Willoughby
+	Pirates		Festival Productions Ireland	Ruth		Jackie Curran-Olohan
+
+Best Concerted Item
+	Ruddigore	Southampton Operatic Society	My eyes are fully open
+	Mikado		Edmund Rice C&M Society		Three Little Maids
+	Pirates		Festival Productions Ireland	Finale
+
+Best Male Voice
+	Pirates		Festival Productions Ireland	Frederic	Brian Gilligan
+	Patience	Oxford University G&S Society	Bunthorne	Jordon Bell
+	Ruddigore	Abbots Langley			Dick Dauntless	Russell Stratton
+
+Best Female Voice
+	Pirates		Festival Productions Ireland	Mabel		Claudia Boyle
+	Princess Ida	Savoynet			Princess Ida	Jane Brendler Buchi
+	Mikado		Edmund Rice C&M Society		Katisha		Zena Bradley
+
+Best Duet
+	Pirates		Festival Productions Ireland	Stay, Frederic, stay
+	Sorcerer	Trent Opera			Family Vault
+	Ruddigore	Abbots Langley			I once was a very abandoned person
+
+Best Character Actor
+	Yeomen		South Anglia			Shadbolt	David Phillips
+	Princess Ida	Savoynet			King Gama	Sam Silvers
+	Pirates		Philadelphia G&S Union		Sgt of Police	Milo Morris
+
+Best Character Actress
+	Ruddigore	Abbots Langley			Mad Margaret	Emma Southorn
+	Sorcerer	Trent Opera			Mrs Partlett	Judith Oldbury
+	Princess Ida	Savoynet			Lady Blanche	Julie May
+
+Best Musical Director
+	Pirates		Festival Productions Ireland	MD		Aidan Faughey
+	Sorcerer	Trent Opera			MD		Andrew Nicklin
+	Ruddigore	Abbots Langley			MD		Peter Holt
+
+Best Director
+	Pirates		Festival Productions Ireland	Director	Vivian Coates
+	Sorcerer	Trent Opera			Director	Andrew Nicklin
+	Yeomen		South Anglia			Director	Shane Collins
+
+Best Male Performer
+	Pirates		Festival Productions Ireland	Pirate King	John-Owen Miley-Read
+	Sorcerer	Trent Opera			JW Wells	Simon Theobald
+	Ruddigore	Abbots Langley			Robin Oakapple	Robert Milner
+
+Best Female Performer
+	Yeomen		South Anglia			Elsie Maynard	Jenny Haxell
+	Sorcerer	Trent Opera			Aline		Joy Nicholls
+	Pirates		Festival Productions Ireland	Mabel		Claudia Boyle
+
+Best Animated Chorus
+	Pirates		Festival Productions Ireland
+	Sorcerer	Trent Opera
+	Ruddigore	Abbots Langley
+
+Adjudicators Award
+	Pinafore	Festival Production		Josephine	Gabriella Rossi
+	Yeomen		Derby G&S Company		Technical award(?)
+
+Best Traditional Opera
+	Sorcerer	Trent Opera
+	Ruddigore	Abbots Langley
+	Yeomen		South Anglia
+
 2012
 *Champions*
 	Ruddigore	South Anglia
@@ -1067,8 +1152,8 @@ Best Concerted Item
 	Patience	Derby G&S	I hear the soft note
 
 Best Male Voice
-	Ruddigore	Oxbridge	Richard Dauntless	Nicholas Scott
-	Ruddigore	South Anglia	Richard Dauntless	Adam L Sullivan
+	Ruddigore	Oxbridge	Dick Dauntless		Nicholas Scott
+	Ruddigore	South Anglia	Dick Dauntless		Adam L Sullivan
 	Sorcerer	Savoynet	Dr Daly			Jonathan Ichikawa
 
 Best Female Voice
@@ -1117,9 +1202,9 @@ Best Musical Director
 	Yeomen		Cape Town G&S Society	MD	Alastair Cockburn
 
 Best Male Performer
-	Ruddigore	South Anglia	Richard Dauntless	Adam L Sullivan
+	Ruddigore	South Anglia	Dick Dauntless	Adam L Sullivan
 	Iolanthe	Peak Opera	Strephon	David Thompson
-	Mikado		WWOS		Ko-Ko	Andy Moore
+	Mikado		WWOS		Ko-Ko		Andy Moore
 
 Best Female Performer
 	Ruddigore	South Anglia	Mad Margaret	Jenny Haxell
