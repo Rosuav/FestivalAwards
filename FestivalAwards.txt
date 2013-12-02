@@ -692,7 +692,7 @@ Adjudicators Award
 	Grand Duke	Trent Opera			Herald		David Leathlean
 	Iolanthe	Bournemouth G&S			Private Willis	Clive Gameson
 
-Best Traditional Opera
+Best Traditional Production
 	Sorcerer	South Anglia
 
 2004
@@ -771,7 +771,7 @@ Adjudicators award (Best costumes)
 	Iolanthe	Abbots Langley
 	Pinafore	South Anglia
 
-Best Traditional Opera
+Best Traditional Production
 	Yeomen		Bluecoat/Trent Opera
 	Iolanthe	Abbots Langley
 	Princess Ida	Nene Opera
@@ -865,7 +865,7 @@ Best Animated Chorus
 Adjudicators Award
 	Utopia		Philadelphia G&S Players	Scaphio/Phantis	David Kurnov/Gary Kurnov
 
-Best Traditional Opera
+Best Traditional Production
 	Mikado		South Anglia
 	Mikado		Sale G&S Society
 	Gondoliers	Nene Opera
@@ -955,7 +955,7 @@ Adjudicators Award
 	Princess Ida	Fraser Valley			Costumes
 	Ruddigore	Savoynet			Robin and Rose duet
 
-Best Traditional Opera
+Best Traditional Production
 	Mikado		Nene Opera
 	Gondoliers	South Anglia
 	Patience	Trent Opera
@@ -1040,7 +1040,7 @@ Best Animated Chorus
 Adjudicators Award
 	???		Liverpool Theatre School and College
 
-Best Traditional Opera
+Best Traditional Production
 	Princess Ida	South Anglia
 	Pinafore	Savoynet
 	Gondoliers	Abbots Langley
@@ -1130,7 +1130,7 @@ Adjudicators Award
 	Pinafore	Festival Production		Josephine	Gabriella Rossi
 	Yeomen		Derby G&S Company		Technical award(?)
 
-Best Traditional Opera
+Best Traditional Production
 	Sorcerer	Trent Opera
 	Ruddigore	Abbots Langley
 	Yeomen		South Anglia
@@ -1222,7 +1222,7 @@ Best Animated Chorus
 Adjudicators Award
 	Iolanthe	South Anglia			Peers' March
 
-Best Traditional Opera
+Best Traditional Production
 	Iolanthe	South Anglia
 	Pirates		Toronto
 	Mikado		Abbots Langley
@@ -1313,7 +1313,7 @@ Best Animated Chorus
 Adjudicators Award
 	Iolanthe/Mikado	Trent Opera/Derby G&S Company	Lighting Design	David Marsden
 
-Best Traditional Opera
+Best Traditional Production
 	Ruddigore	Plymouth G&S Fellowship
 	Patience	Peak Opera
 	Gondoliers	Savoynet
@@ -1397,7 +1397,7 @@ Best Animated Chorus
 Adjudicators Award
 	Iolanthe	Festival Production		Tolloller/Mountararat	David Brown/John Colston
 
-Best Traditional Opera
+Best Traditional Production
 	Mikado		Savoynet
 	Iolanthe	Festival Production
 	Yeomen		G&S Opera Victoria
@@ -1458,7 +1458,7 @@ Best Costumes
 	Ruddigore	South Anglia
 	Mikado		WWOS
 
-Best Traditional Opera
+Best Traditional Production
 	Ruddigore	South Anglia
 	Ruddigore	Oxbridge Opera Company
 	Yeomen		Cape Town G&S Society
@@ -1527,7 +1527,7 @@ Best Female Performer
 	Ruddigore	Derby G&S Company		Mad Margaret	Jean Krzeminski
 	Yeomen		Savoynet			Elsie Maynard	Anne Slovin
 
-Best Traditional Opera
+Best Traditional Production
 	Mikado		Harrogate G&S Society
 	Yeomen		Oxbridge Opera Company
 	Yeomen		Savoynet
