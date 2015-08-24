@@ -1692,9 +1692,9 @@ Best Musical Director
 	Iolanthe	International University	MD			James Hendry
 
 Best Chorus
+	Mikado		Cape Town G&S Society
 	Iolanthe	International University
-	Mikado		???
-	Patience	???
+	Patience	Blue Hill Troupe
 
 Best Supporting Actor
 	Patience	Blue Hill Troupe		Colonel			Brian Wagner
