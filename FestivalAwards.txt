@@ -1678,51 +1678,81 @@ Best Duet
 2015
 *Champions*
 	Patience	Blue Hill Troupe
-	Mikado		Cape Town
+	Mikado		Cape Town G&S Society
 	Pinafore	WWOS
 
 Best Director
 	Patience	Blue Hill Troupe		Director		Gary Slavin
+	Pinafore	WWOS				Director		Kevin Gauntlett
+	Mikado		Cape Town G&S Society		Director		Roche Buckle
 
 Best Musical Director
 	Yeomen		Trent Opera			MD			Andrew Nicklin
+	Mikado		Cape Town G&S Society		MD			Alastair Cockburn
+	Iolanthe	International University	MD			James Hendry
 
 Best Chorus
-	Iolanthe	International Uni
+	Iolanthe	International University
+	Mikado		???
+	Patience	???
 
 Best Supporting Actor
 	Patience	Blue Hill Troupe		Colonel			Brian Wagner
+	Mikado		Cape Town G&S Society		Pooh-Bah		Stephan Le Roux
+	Pinafore	WWOS				Dick Deadeye		James Corrish
 
 Best Supporting Actress
-	Pinafore	WWOS				Buttercup		Elizabeth O'Donnel
+	Pinafore	WWOS				Buttercup		Elizabeth O'Donnell
+	Patience	Blue Hill Troupe		Lady Angela		Eva Giorgi
+	Iolanthe	International University	Celia			Lily Dyble
 
 Best Concerted Item
-	Utopia		New London			Minstrels
+	Utopia		New London Opera Group		Society has quite forsaken
+	Iolanthe	International University	If you go in
+	Mikado		Cape Town G&S Society		Finale
 
 Best Male Voice
-	Ruddigore	Grosvenor			Sir Despard		Edward Jowell
+	Ruddigore	Grosvenor Light Opera		Sir Despard		Edward Jowle
+	Mikado		Cape Town G&S Society		Nanki-Poo		Marco Titus
+	Iolanthe	International University	Strephon		Spencer Reichman
 
 Best Female Voice
 	Patience	Blue Hill Troupe		Patience		Sheena Ramirez
+	Pirates		Savoynet			Mabel			Rachel Middle
+	Sorcerer	Bus Pass Opera			Aline			Stella Whitehouse
 
 Best Character Actor
 	Yeomen		Peak Opera			Shadbolt		Ian Henderson
+	Princess Ida	Harrogate G&S Society		King Gama		David MacDonald
+	Iolanthe	International University	Lord Chancellor		Henry Smith
 
 Best Character Actress
-	Mikado		Cape Town			Katisha			Monika Voysey
+	Mikado		Cape Town G&S Society		Katisha			Monika Voysey
+	Pinafore	WWOS				Buttercup		Elizabeth O'Donnell
+	Princess Ida	Harrogate G&S Society		Lady Blanche		Valerie Green
 
 Best Male Performer
-	Mikado		Cape Town			Mikado			Peter Kramer
+	Mikado		Cape Town G&S Society		Mikado			Peter Kramer
+	Pinafore	WWOS				Sir Joseph		Kevin Gauntlett
+	Patience	Blue Hill Troupe		Duke of Dunstable	Chazmond Peacock
 
 Best Female Performer
 	Yeomen		Peak Opera			Phoebe			Laura Jamie Anstice
+	Patience	Blue Hill Troupe		Patience		Sheena Ramirez
+	Princess Ida	Harrogate G&S Society		Princess Ida		Rachel Warren
 
 Best Animated Chorus
 	Patience	Blue Hill Troupe		Soldiers of our Queen
+	Iolanthe	International University	Tripping hither
+	Mikado		Cape Town G&S Society		For he's gone and married Yum-Yum
 
 Adjudicator's Award
-	Iolanthe	International Uni
+	Iolanthe	International University
 
 Best Traditional Opera
-	Mikado		Cape Town
+	Mikado		Cape Town G&S Society
 
+Best Duet
+	Mikado		Cape Town G&S Society		Were you not to Ko-Ko plighted	Karen Wilson-Harris/Marco Titus
+	Ruddigore	Grosvenor Light Opera		You understand, I think I do	Jack Roberts/Edward Jowle
+	Iolanthe	International Uni		If we're weak enough to tarry	Joanna Goldspink/Spenser Reichman
