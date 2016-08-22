@@ -1194,7 +1194,7 @@ Best Musical Director
 	Gondoliers	Festival Productions Ireland	MD		Aidan Faughey
 	Iolanthe	South Anglia			MD		Stephen Kenna
 	Gondoliers	Derby G&S Company		MD		Andrew Nicklin
-	Sorcerer	Bournemouth			MD		Jean Holt
+	Sorcerer	Bournemouth G&S			MD		Jean Holt
 
 Best Director
 	Gondoliers	Festival Productions Ireland	Director	Vivian Coates
