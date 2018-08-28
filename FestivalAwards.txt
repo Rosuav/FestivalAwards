@@ -322,7 +322,7 @@ Best Supporting Actor
 Best Supporting Actress
 	Grand Duke	Seattle G&S Society	Lisa		Edie Hoppin
 	Yeomen		Derby G&S Company	Phoebe		Dawn Foxall
-	Ruddigore	Savoynet		Mad Margaret	Kay Byle
+	Ruddigore	Savoynet		Mad Margaret	Kay Byler
 
 Best Concerted Item
 	Grand Duke	Seattle G&S Society	Strange the Views
